@@ -8,7 +8,9 @@ Status: 0 - Idea; 1 - Proposed; 2 - Approved; 3 - Planned; 4 - In Work; 5 - Held
 
 Seq: <seq> 
 
-Level: <level: 1 - Title; 2 - List; 3 - Item; > 
+Level: <level: 1 - Title; 2 - List; 3 - Item; 4 - Definition; > 
+
+Include Children: <includechildren> 
 
 Body:  
 

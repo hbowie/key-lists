@@ -4,6 +4,8 @@ Seq:    1
 
 Level:  2 - List
 
+Include Children: dl
+
 Body:
 
 I originally encountered these principles in [David Sloan Wilson][wilson]'s book, *[This View of Life][tvol].* If you'd like another description of these principles that is freely available on the web, you can refer to this [PDF](https://evolution-institute.org/wp-content/uploads/2018/10/Generalizing-the-Core.pdf) of an article originally published in the *Journal of Economic Behavior & Organization*. 
@@ -14,6 +16,7 @@ As soon as I read these, I recognized their significance, and the ways in which 
 
 I believe these principles to be universal and scalable to groups of any size. 
 
+
 [agile]: https://en.wikipedia.org/wiki/Agile_software_development
 
 [lin]: https://en.wikipedia.org/wiki/Elinor_Ostrom
@@ -21,4 +24,3 @@ I believe these principles to be universal and scalable to groups of any size.
 [tvol]: https://www.penguinrandomhouse.com/books/246844/this-view-of-life-by-david-sloan-wilson/
 
 [wilson]: https://thisviewoflife.com/profile/david-sloan-wilson/
-

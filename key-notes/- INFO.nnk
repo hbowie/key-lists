@@ -8,7 +8,7 @@ Sort Descending: false
 
 Other Fields Allowed: false
 
-Last Index Selected: 0
+Last Index Selected: 1
 
 Mirror Auto Index: false
 
@@ -25,4 +25,8 @@ Local Images: false
 Missing Targets: false
 
 Shortcut: key
+
+Web Book Folder: /Users/hbowie/Sites/key-lists
+
+Web Book EPUB: false
 
