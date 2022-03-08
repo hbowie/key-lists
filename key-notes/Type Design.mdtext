@@ -1,0 +1,11 @@
+Title:  Type Design
+
+Seq:    9.3
+
+Level:  3 - Item
+
+Body:
+
+In order to improve a type of thing, one must have a means of reliably producing such a thing, and this usually means having the instructions needed to produce or replicate it. For biological organisms, this is the genome. For a software application, it is the source code. For an airplane, this is a large collection of design documents, such as drawings and parts lists (or 3-D models). For a nation, it is its constitution. 
+
+Note that a type design must always be composed using a known [[type design language]].
