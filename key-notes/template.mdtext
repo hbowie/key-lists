@@ -2,15 +2,19 @@ Title: <title>
 
 AKA: <aka> 
 
-Seq: <seq: x|n.|x|x > 
-
-Tags: <tags> 
-
-Link: <link>  
+Class: <class: title, front, text, list, item, def, back >
 
 Level: <level: 1 - Title; 2 - List; 3 - Item; 4 - Definition; > 
 
-Image Name: <imagename>
+Seq: <seq: x|n.|x|x> 
+
+Tags: <tags> 
+
+Index: <index> 
+
+Link: <link> 
+
+Image Name: <imagename> 
 
 Include Children: <includechildren> 
 

@@ -2,9 +2,11 @@ Title:  Modern
 
 AKA:    Orange, Rational
 
-Seq:    5.5
+Class:  item
 
 Level:  3 - Item
+
+Seq:    2.5
 
 Include Children: details
 

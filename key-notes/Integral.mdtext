@@ -2,9 +2,11 @@ Title:  Integral
 
 AKA:    Yellow, Systemic, Integrative
 
-Seq:    5.7
+Class:  item
 
 Level:  3 - Item
+
+Seq:    2.7
 
 Include Children: details
 

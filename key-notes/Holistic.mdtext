@@ -2,9 +2,11 @@ Title:  Holistic
 
 AKA:    Turquoise
 
-Seq:    5.8
+Class:  item
 
 Level:  3 - Item
+
+Seq:    2.8
 
 Include Children: details
 

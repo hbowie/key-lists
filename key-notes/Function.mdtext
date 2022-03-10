@@ -1,10 +1,12 @@
 Title:  Function
 
-Seq:    9.2
+Class:  item
 
 Level:  3 - Item
 
+Seq:    10.2
+
 Body:
 
-A [[Type of Thing]] must have some function. That is, it must use some inputs and produce some output. Some outputs we can identify as useful (in some sense), while others may be categorized as waste. Often, amounts of these inputs and outputs can be quantified. And we generally want to minimize the inputs required, minimize the waste, and maximize the useful output, in order to improve a [[type of thing]]. 
+A [[Type of Thing]] must have some function. That is, it must use some inputs and produce some output. Some outputs we can identify as useful (in some sense), while others may be categorized as waste. Often, amounts of these inputs and outputs can be quantified. And we generally want to minimize the inputs required, minimize the waste, and maximize the useful output, in order to improve a type of thing. 
 
