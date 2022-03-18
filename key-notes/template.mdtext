@@ -2,7 +2,7 @@ Title: <title>
 
 AKA: <aka> 
 
-Class: <class: title, front, text, list, item, def, back >
+Class: <class:  , back, def, front, item, list, text, title > 
 
 Level: <level: 1 - Title; 2 - List; 3 - Item; 4 - Definition; > 
 
