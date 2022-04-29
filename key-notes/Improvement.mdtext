@@ -6,6 +6,8 @@ Level:  2 - List
 
 Seq:    14
 
+Include Children: details
+
 Body:
 
 In order to improve something, a certain number of elements must be present. 

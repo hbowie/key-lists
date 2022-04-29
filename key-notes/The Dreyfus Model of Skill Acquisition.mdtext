@@ -6,6 +6,8 @@ Level:  2 - List
 
 Seq:    5
 
+Include Children: details
+
 Body:
 
 First proposed by Stuart and Hubert Dreyfus in 1980, this model suggests that people go through roughly five stages as they acquire new skills.

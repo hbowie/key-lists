@@ -1,6 +1,6 @@
 Title:  The Four-Way Test
 
-Tags:   groups, relationships
+Tags:   lists.groups
 
 Class:  list
 
@@ -9,6 +9,8 @@ Level:  2 - List
 Seq:    8
 
 Index:  Rotary International; 
+
+Include Children: ol
 
 Body:
 
